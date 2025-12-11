@@ -32,9 +32,7 @@
     </div>
 </div>
 
-/* --- STYLES GÉNÉRAUX ET LAYOUT --- */
-/* --- STYLES GÉNÉRAUX ET LAYOUT --- */
-        body { 
+    body { 
             font-family: Arial, sans-serif; 
             margin: 0; 
             padding: 0; 
